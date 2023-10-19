@@ -1,0 +1,254 @@
+@media(max-width:575px) {
+    
+        .intro{
+            text-align: center;
+        }
+      
+        header h5 {
+            font-size: 12px;
+        }
+        header h2 {
+            font-size: 18px;
+        }
+        header p {
+            font-size: 14px;
+            padding: 10px 20px;
+        }
+        header .now {
+            padding: 5px 10px;
+            margin-bottom: 40px;
+        }
+        header button {
+            
+            padding: 5px 10px;
+        }
+        .nav-link:hover {
+            display: inline-block;
+        }
+        .nav-link {
+           
+            display: inline-block;
+        }
+        .ms-auto {
+            text-align: center;
+        }
+        header .pic {
+            display: none;
+        }
+        .pic2{
+            display: inherit;
+            
+        }
+        .pic2 img {
+            width: 60%;
+            text-align: center;
+            margin: auto;
+            margin-top: 30px;
+        }
+        .text h6 {
+            font-size: 11px;
+        }
+        .body .text h2 {
+            font-size: 20px;
+        }
+        .dot span{
+            display: none;
+        }
+        .features {
+            margin-top: 0px;
+        }
+        .features i {
+            margin-left: -10px;
+            font-size: 15px;
+            line-height: 40px;
+            height: 40px;
+            width: 40px;
+            margin-top: 0;
+        }
+        .features p {
+            padding: 0px 32px;
+        }
+        .features p {
+            padding: 0px 32px;
+        }
+        .img{
+            text-align: center;
+        }
+        .img img{
+            width: 60%!important;
+        }
+        .test {
+            margin-top: 50px;
+        }
+        .test h5 {
+            font-size: 11px;
+            padding-top: 30px;
+        }
+        .test h3 {
+            font-size: 20px;
+        }
+
+        .dip{
+            text-align: center;
+        }
+        .anik span{
+            margin-left: 45%;
+        }
+        .test p {
+            font-size: 14px;
+            padding: 12px 0px 20px;
+        }
+      
+        .super {
+            height: 100vh;
+        }
+        .super h6 {
+            padding-top: 50px;
+            font-size: 11px;
+            text-align: center;
+        }
+        .super h3 {
+            margin-bottom: 35px;
+            font-size: 18px;
+            text-align: center;
+        }
+        .do span{
+            margin-left: 42%;
+        }
+       
+        .super p {
+            font-size: 15px;
+            text-align: center;
+            margin-top: -25px;
+        }
+        .super img {
+            width: 75%;
+            margin-left: 17%;
+            margin-top: -10px;
+        }
+        .banner h6 {
+            font-size: 11px;
+            padding-top: 20px;
+        }
+        .banner .one {
+            margin-top: 40px;
+            font-size: 15px;
+        }
+        .dott{
+            transform: translateY(-10px);
+        }
+        
+        .black p {
+            color: white;
+            font-size: 15px;
+            text-align: center;
+        }
+        .but {
+            margin: 0;
+            text-align: center;
+        }
+        .black {
+            height: 150px;
+        }
+        .black button {
+            padding: 5px 10px;
+            font-size: 14px;
+  
+        }
+        .black .now {
+            padding: 5px 10px;
+            font-size: 14px;
+        }
+        .plan {
+            height: 350vh;
+        }
+        .plan h6 {
+            font-size: 11px;
+            padding-top: 30px;
+        }
+        .plan h3 {
+            font-size: 20px;
+        }
+        .two{
+            transform: translateY(-10px);
+        }
+        .any {
+            width: 86%;
+            margin-top: 47px;
+            margin-left: 10%;
+            height: 70vh;
+        }
+        .any .fe h5 {
+            padding: 8px 0 5px;
+            font-size: 20px;
+        }
+        .any .per {
+            padding: 0;
+        }
+        .lorem a {
+
+            padding: 8px 25px;
+            font-size: 12px;
+            margin-top: 10px;
+        }
+        .contact h6 {
+            font-size: 12px;
+            padding-top: 26px;
+        }
+        .contact h3 {
+            font-size: 25px;
+        }
+        .three{
+            transform: translateY(-10px);
+        }
+        .list {
+            margin-top: 25px;
+            margin-left: 18px;
+        }
+        .list p {
+            color: #999999;
+            margin-top: 10px;
+            font-size: 15px;
+        }
+        .list i {
+            font-size: 19px;
+        }
+
+        .contact {
+            height: 90vh;
+        }
+       .get{
+        display: none;
+       }
+    
+        /* .in .subject{
+            width: 69%;
+            margin-top: 20px;
+            display: unset;
+        }
+        form .subject{
+            padding: 4px 9px;
+            font-size: 15px;
+            margin-left: 25px;
+        }
+        .area{
+            width: 69%;
+            margin-top: -50px;
+           
+        }
+        .area textarea {
+            font-size: 15px;
+            margin-left: 25px;
+            width: 39vh;
+        }
+        .send {
+            font-size: 12px;
+            margin-left: 35%;
+        } */
+
+
+
+
+
+
+  }
